@@ -1,0 +1,14 @@
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\bin\Debug\netcoreapp2.2\WebService.deps.json
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\bin\Debug\netcoreapp2.2\WebService.runtimeconfig.json
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\bin\Debug\netcoreapp2.2\WebService.runtimeconfig.dev.json
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\bin\Debug\netcoreapp2.2\WebService.dll
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\obj\Debug\netcoreapp2.2\WebService.csprojAssemblyReference.cache
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\obj\Debug\netcoreapp2.2\WebService.csproj.CoreCompileInputs.cache
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\obj\Debug\netcoreapp2.2\WebService.RazorAssemblyInfo.cache
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\obj\Debug\netcoreapp2.2\WebService.RazorAssemblyInfo.cs
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\obj\Debug\netcoreapp2.2\WebService.AssemblyInfoInputs.cache
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\obj\Debug\netcoreapp2.2\WebService.AssemblyInfo.cs
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\obj\Debug\netcoreapp2.2\WebService.RazorTargetAssemblyInfo.cache
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\bin\Debug\netcoreapp2.2\WebService.pdb
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\obj\Debug\netcoreapp2.2\WebService.dll
+D:\Ascentic Projects\BootCamp\Bootcamp.UnitTest\WebService\obj\Debug\netcoreapp2.2\WebService.pdb
